@@ -8,6 +8,8 @@ namespace ConsoleAppForGithub
         {
             Console.WriteLine("hier aus vs");
             var feature1 = new Feature1();
+            
+            // code to call feature 3
         }
     }
 }
